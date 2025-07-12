@@ -109,7 +109,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Hari06om)
+- GitHub: [Hari06om](https://github.com/Hari06om)
 
 
 ## 🙏 Acknowledgments
@@ -122,7 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/world-clock/issues) page
+1. Check the [Issues](https://github.com/HAri06om/world-clock/issues) page
 2. Create a new issue if your problem isn't already reported
 3. Provide detailed information about your system and the issue
 
