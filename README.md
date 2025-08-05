@@ -11,6 +11,7 @@ An interactive Java Swing application that displays real-time clocks for differe
 - **Real-time Updates**: Time and date update dynamically as you move your mouse
 - **Multiple Time Zones**: Currently supports:
   - 🇦🇺 Australia (Sydney)
+  - 
   - 🇨🇦 Canada (Chicago timezone)
   - 🌐 System Default (your local timezone)
 - **Clean UI**: Simple and intuitive graphical interface
